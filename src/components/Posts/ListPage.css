@@ -1,0 +1,11 @@
+.listContainer {
+    width: 90vw;
+    height: auto;
+    margin: 40px auto;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    grid-gap: 10px;
+}
